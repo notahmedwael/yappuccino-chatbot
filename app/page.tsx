@@ -98,7 +98,7 @@ export default function Home() {
 
               <div>
                 <h1 className="text-2xl font-semibold tracking-tight">
-                  Emerald Chef
+                  Yappuccino
                 </h1>
                 <p className="text-sm text-emerald-100/60 mt-1">
                   Refined AI culinary guidance
